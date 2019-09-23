@@ -31,7 +31,7 @@ int main(int argv, char**args){
            cout << "The input data format is invalid!!" << endl;
            return 1;
     }
-     if (   !(cin >> lon2) ){
+     if (   !(cin >> lon1) ){
            cout << "The input data format is invalid!!" << endl;
            return 1;
     }
